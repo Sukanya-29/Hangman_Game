@@ -2,7 +2,7 @@
 
 This is a simple Hangman game implemented in Python. The game randomly selects a word from a list of words and allows the player to guess the letters in the word. The game provides visual feedback using hangman stages, showing the player's progress and how many tries are left.
 
-### There are 2 files:
+### There are 2 files: [hangman.py](https://github.com/Sukanya-29/Hangman_Game/blob/main/hangman.py) is a python file code with gui and [MiniProject_Hangman_game.ipynb](https://github.com/Sukanya-29/Hangman_Game/blob/main/MiniProject_Hangman_game.ipynb) is a google colab notebook with code only.
 
 ## How to Play
 
